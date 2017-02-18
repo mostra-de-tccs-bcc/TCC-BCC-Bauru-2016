@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+repository: mostra-de-tccs-bcc/TCC-BCC-Bauru-2016
+title: [Mostra de TCCs de BCC]
+description: [Mostra de Trab. de Conclusão de Curso em Bach. em Ciência da Computação da Unesp de Bauru (FC) - 2016]
+baseurl: /TCC-BCC-Bauru-2016
+gems: ['jekyll-github-metadata']
