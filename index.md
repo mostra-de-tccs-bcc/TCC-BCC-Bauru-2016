@@ -7,6 +7,10 @@ acadamicas consquistas e contruidas pelos alunos graduandos desta universidade.
 
 # A Mostra 2016
 
+A Mostra de Trabalhos de Conclusão de Curso (TCC) do curso de Bacharelado em
+Ciência da Computação (BCC) da Faculdade de Ciências do Campus de Bauru será
+realizada no dia 20/fev/2017 (segunda-feira), das 14 às 18h, no Hall Terra da
+Fundeb.
 
 # Trabalhos
 
