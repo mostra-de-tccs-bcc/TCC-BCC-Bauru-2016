@@ -3,7 +3,7 @@
 Monografias e Apresentações dos formandos de Ciência da Computação da UNESP
 Bauru do ano de 2016 http://mostra-de-tccs-bcc.github.io/TCC-BCC-Bauru-2016
 
-# Contrubição
+# Contribuição
 
 Para publicar o seu TCC siga o [:zap:Github flow:zap:](https://guides.github.com/introduction/flow/):
 
